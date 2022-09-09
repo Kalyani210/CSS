@@ -1,0 +1,30 @@
+h1 {
+    color: aliceblue;
+    font-size: 4rem;
+}
+h2 {
+    color: cadetblue;
+    font-size: 3rem;
+}
+
+h1 {
+    color: cadetblue;
+    font-size: 4rem;
+}
+
+h2 {
+    color-scheme: red;
+}
+
+/* css rule */
+/* selectors */
+/* declearation block */
+/* decoration */
+/* property */
+/* value */
+
+/* CLASS SELECTORS */
+
+.green {
+    color: green;
+}
